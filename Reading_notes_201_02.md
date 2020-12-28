@@ -13,7 +13,9 @@
 > (i) italic 
 
 2. About Css The book till us how css works and till us about some ruls, on other hand we have to many type of selector.
+
 ### From duckitt javascrept book we learn:
+
 1. How to write a statment, commint, function.
 2. And that we have variable to store a value on it.
 3. How to write a Array and how we use logical operation.
