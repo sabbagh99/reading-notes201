@@ -1,5 +1,5 @@
 # Day (5)
-### ** This is a sammery for daucett book chapters
+### ** This is a sammery for daucett book chapters.**
 ### Chapter (5):
 * This chaptar tilling us how we can use an image for our web site by using img tag and inside this tag we can write src=(the image location or a url ) also you can define the length and width for this image by write it before the end of the tag.
 * And that we can use algain to move the text with the picture to right or lift by writing this in the image tag.
