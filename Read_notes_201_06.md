@@ -3,6 +3,7 @@
 • Chapter (3):
 
 1- We know from this chapter how you can write a object and how you can use it in JavaScript so its very simple and there is several ways to do this using dot notation.
+
 • Chapter (5):
 
 1- Each browser when load the page, its will  create for this  page 
