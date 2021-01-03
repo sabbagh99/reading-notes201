@@ -12,3 +12,5 @@
 * [Reading class 02](Reading_notes_201_04.md)
 
 * [Reading class 02](Reading_notes_201_05.md)
+
+* [Reading class 02](Reading_notes_201_06.md)
