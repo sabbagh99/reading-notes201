@@ -21,7 +21,7 @@ each one of this node mean or represent something
 2- working with DOM TREE accessing and updating the DOM tree involves two steps: 
 
 • Locate the node that represents the element you want to work with.You can do this using this steps.
-![picture 1](/read_06/WhatsApp Image 2021-01-03 at 11.05.59 (1).jpeg)
+![picture 1](/read_06/pic 1.jpeg)
 
 • Use its text content, child elements, and attributes.
-![picture 1](/read_06/WhatsApp Image 2021-01-03 at 11.05.59.jpeg)
+![picture 2](/read_06/WhatsApp Image 2021-01-03 at 11.05.59.jpeg)
