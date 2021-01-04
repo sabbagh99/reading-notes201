@@ -15,3 +15,10 @@ heading.)
 
 * Chapter(3) JavaScript duckeet book
 
+1. How we can define a object, we can do this by store the value name inside a variable then we have to add our property name using dot notation or between angle bracit.
+
+2. To create a consturctor function is like normal function but we need to write the first charactor using pascal case .
+
+3. Do you know how much bilt-in object we have?
+
+> We have three type of bilt-in object.
