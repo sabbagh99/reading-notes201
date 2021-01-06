@@ -24,4 +24,7 @@ D) Upper-alpha: A B C
 E) lower-roman :i. ii. iii.
 F) upper-roman:I II III
 2. We can use a certin by using a link for the thing that you want.
-3. 
+3. Border on Empty Cells we can add an empty celss by (empty-cells: show;) to show an ampty cell or (empty-cells: hide;) to hide it.
+* Chapter (6) duckett JavaScript book
+1. Event and how we can use it first there are to many type of event each type have a certan fuction.
+2.We need to add a targit to targit  out tag.
