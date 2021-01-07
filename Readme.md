@@ -20,3 +20,6 @@
 * [Reading class 08](Reading_notes_201_08.md)
 
 * [Reading class 09](Reading_notes_201_09.md)
+
+* [Reading class 10](Reading_notes_201_10.md)
+
