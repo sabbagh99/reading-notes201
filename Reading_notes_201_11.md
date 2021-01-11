@@ -23,4 +23,10 @@ so to change your image size you should follow this steps :
 
 4.Now after we have this proparaty we have important proparaty calld background-position this proparaty we use it to change image position  using one of this value (left top/left center/left bottom/center top/ center center/center bottom/right top/right center/right bottom)
 
-* Chapter 19:
+* Chapter 19: 
+1. SEO define : (Search Engine Optimization) is a huge topic and several books have been written on the subject.
+The following pages will help you understand the key concepts so you can
+improve your website's visibility on search engines. 
+2. In every page we have seven keyword (the words people might search on to find your site) can appear in order to improve its findability.
+
+> This keyword : Page Title/URL Web Address/Headings/Text/Link Text/Image Alt Text/Page Descriptions.
